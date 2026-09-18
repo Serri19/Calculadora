@@ -1,2 +1,2 @@
-# prova
-es un repositori de prova per la activitat de control de versions
+# **Calculadora cutre**
+És una *calculadora* que hice ayer en primer tanteo en el mundo de Kotlin
